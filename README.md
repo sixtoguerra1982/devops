@@ -1,6 +1,6 @@
-# devops
+# Conociendo los Sistemas de Control de Versiones
 
-Por supuesto, aquí está el texto formateado en Markdown:
+
 
 ### 1. Tipos de Sistemas de Control de Versiones y sus características
 
